@@ -18,6 +18,3 @@ Compétences travaillées :
 
 Outils : 
   + Grille autoévaluation (xls),  documents PDF
-
-![découverte](P1.png)
-
