@@ -1,5 +1,5 @@
 # Formation-Data-Analyste
-L'obejctif de ce projet est de faire le découverte du métier de Data Analsyte. A l'issue de la formation nous sommes en mesure : 
+L'objectif de ce projet est de faire le découverte du métier de Data Analsyte.
 
 Réalisations : 
   + Fiche de découverte du métier
